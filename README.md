@@ -13,7 +13,9 @@ Technologies
 - SpecFlow
 - The required NuGetPackages i.e. SeleniumWebDriver &  SeleniumChromeDriver
 
-
+Development Decisions
+- For simplicity, I chose not to create too many new elements on the Element Page
+- NUnit.Framework & TechTalk.SpecFlow were imperative to following the Instructions and using the SpecFlow system to create the test cases.
 
 Contributors
 - Jonathan Alade <jonathan.alade1@hotmail.co.uk>
